@@ -4,7 +4,7 @@ I'm Bogdan Pryvalov a Front End Web Developer. I Spend most of time coding outst
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-pryvalovbogdan-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMSnpcAaf4nEeT41BQVosVg) [![Linkedin Badge](https://img.shields.io/badge/-bogdan-pryvalov-033461195?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-pryvalov-033461195/) [![Mail Badge](https://img.shields.io/badge/-@pryvalovbogdan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/bohdan.pryvalov/) 
+[![Mail Badge](https://img.shields.io/badge/-pryvalovbogdan-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMSnpcAaf4nEeT41BQVosVg) [![Linkedin Badge](https://img.shields.io/badge/-Pryvalov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-pryvalov-033461195/) [![Mail Badge](https://img.shields.io/badge/-@pryvalovbogdan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/bohdan.pryvalov/) 
 
 - 👀 I’m interested in Web dev
 - :computer: I’m currently learning nextjs/nestjs
