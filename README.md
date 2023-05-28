@@ -17,7 +17,7 @@ I'm Bogdan Pryvalov a Front End Web Developer. I Spend most of time coding outst
 
 #### Github Stats
 
-![pryvalovbogdan's github stats](https://github-readme-stats.vercel.app/api?username=pryvalovbogdan&count_private=true&theme=tokyonight&hide=contribs,prs)
+![pryvalovbogdan's github stats](https://github-readme-stats.vercel.app/api?username=pryvalovbogdan&count_private=true&theme=tokyonight&hide=contribs)
 
 <!---
 pryvalovbogdan/pryvalovbogdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
